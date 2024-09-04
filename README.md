@@ -1,4 +1,4 @@
-# scrape-app
+# automated-scrape-app
 
  ## create .env file and add your api key
 
